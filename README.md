@@ -8,12 +8,10 @@ A train schedule application that incorporates Firebase to host arrival and depa
 
 ### Instructions
 
-1. Select which universe you would like your name selected from. (Elder scrolls, Warcraft, DnD, etc.)
+1. Input train name, destination, the train's first departure time, and how frequently the train leaves.
 
-2. (Optional) Toggle the checkbox if you would like a title at the end of your characters name. (the blind, the brave, the pestilent, etc.)
-
-3. Once all of the fields are selected, hit the generate button.
-
+2. The app will calculate when the next train will arrive; this is relative to the current time. (Users from many different machines can see the same train data real time!)
+=
 
 ### Easy link to github hosted application:
 **Link** :
