@@ -14,7 +14,7 @@ A train schedule application that incorporates Firebase to host arrival and depa
 =
 
 ### Easy link to github hosted application:
-**Link** :
+**Link** :  https://wholetpaulin.github.io/Train-Scheduler/
 
 
 ### One More Thing
